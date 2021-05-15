@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "123197428252",
+    "project_id": "flytbaseapp",
+    "storage_bucket": "flytbaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123197428252:android:e3f023e4d746efa7c405d9",
+        "android_client_info": {
+          "package_name": "com.flytbasetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123197428252-o38ma149v1pl06j6nv4phag3v8q9jtre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flytbasetask",
+            "certificate_hash": "5a16c45f98c8abb3517a99b705afd2b3453b999b"
+          }
+        },
+        {
+          "client_id": "123197428252-9tc6nsau98ll94nfb3n7fda3lss8i8h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK0D1t0-s5_ZVg8MPlSlMz3V_rMAYWfP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123197428252-9tc6nsau98ll94nfb3n7fda3lss8i8h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
